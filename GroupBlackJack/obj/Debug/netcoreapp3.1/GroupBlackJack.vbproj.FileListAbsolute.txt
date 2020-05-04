@@ -1,0 +1,13 @@
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\bin\Debug\netcoreapp3.1\GroupBlackJack.exe
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\bin\Debug\netcoreapp3.1\GroupBlackJack.deps.json
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\bin\Debug\netcoreapp3.1\GroupBlackJack.runtimeconfig.json
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\bin\Debug\netcoreapp3.1\GroupBlackJack.runtimeconfig.dev.json
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\bin\Debug\netcoreapp3.1\GroupBlackJack.dll
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\bin\Debug\netcoreapp3.1\GroupBlackJack.pdb
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\obj\Debug\netcoreapp3.1\GroupBlackJack.vbprojAssemblyReference.cache
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\obj\Debug\netcoreapp3.1\GroupBlackJack.vbproj.CoreCompileInputs.cache
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\obj\Debug\netcoreapp3.1\GroupBlackJack.AssemblyInfoInputs.cache
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\obj\Debug\netcoreapp3.1\GroupBlackJack.AssemblyInfo.vb
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\obj\Debug\netcoreapp3.1\GroupBlackJack.dll
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\obj\Debug\netcoreapp3.1\GroupBlackJack.pdb
+C:\Users\lee.macri\source\repos\GroupBlackJack\GroupBlackJack\obj\Debug\netcoreapp3.1\GroupBlackJack.genruntimeconfig.cache
